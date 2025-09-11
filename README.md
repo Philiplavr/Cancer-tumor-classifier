@@ -35,9 +35,10 @@ A simple machine learning project that classifies cancer tumors as benign or mal
 
 | Model                | Accuracy | F1-Score |
 |---------------------|----------|----------|
-| KNN (k=3)           | 0.95     | 0.95     |
-| KNN (k=5)           | 0.96     | 0.96     |
-| Naive Bayes         | 0.98     | 0.98     |
-| Logistic Regression | 0.98     | 0.98     |
+| KNN (k=3)           | 0.93     | 0.93     |
+| KNN (k=5)           | 0.91     | 0.91     |
+| Naive Bayes         | 0.90     | 0.90     |
+| Logistic Regression | 0.96     | 0.97    |
 
-Naive Bayes and Logistic Regression with L2 regularization provided the best performance.
+
+KNN (k=3) and Logistic Regression with L2 regularization provided the best performance.
